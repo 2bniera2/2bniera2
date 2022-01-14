@@ -5,11 +5,8 @@
 
 ### Languages I know:
 Java
-
 C
-
 Python
-
 SQL
 
 
