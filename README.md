@@ -4,10 +4,10 @@
 2nd Year Computer Science Student at the University of Warwick
 
 ### Languages I know:
-Java
-C
-Python
-SQL
+- Java
+- C
+- Python
+- SQL
 
 
 
