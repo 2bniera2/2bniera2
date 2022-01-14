@@ -1,4 +1,20 @@
-### Help
+### Budding Software Engineer that wants to be a Software Engineer one day
+
+### About me:
+2nd Year Computer Science Student at the University of Warwick
+
+### Languages I know:
+Java
+C
+Python
+SQL
+
+### Stuff I want to learn:
+C++
+Rust
+TypeScript 
+Haskell
+
 
 
 <!--
