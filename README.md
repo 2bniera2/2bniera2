@@ -5,15 +5,13 @@
 
 ### Languages I know:
 Java
+
 C
+
 Python
+
 SQL
 
-### Stuff I want to learn:
-C++
-Rust
-TypeScript 
-Haskell
 
 
 
