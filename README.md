@@ -1,4 +1,4 @@
-### Budding Software Engineer that wants to be a Software Engineer one day
+## Budding Software Engineer that wants to be a Software Engineer one day
 
 ### About me:
 2nd Year Computer Science Student at the University of Warwick
@@ -9,6 +9,10 @@
 - Python
 - SQL
 
+### Stuff I like:
+Gaming
+Anime
+Keyboards
 
 
 
