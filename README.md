@@ -1,16 +1,16 @@
 ![](https://static.wikia.nocookie.net/darksouls/images/e/e9/Wave.png/revision/latest?cb=20130204072517)
 
-## Budding Software Engineer
-### About me:
+## **Budding Software Engineer**
+### **About me**:
 2nd Year Computer Science Student at the University of Warwick
 
-### Languages I know: 
+### **Languages I know**: 
 - Java
 - C
 - Python
 - SQL
 
-### Stuff I like: 
+### **Stuff I like**: 
 - Gaming
 - Anime
 - Keyboards
