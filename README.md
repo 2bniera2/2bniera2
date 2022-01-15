@@ -1,15 +1,14 @@
-## Budding Software Engineer that wants to be a Software Engineer one day
-
+## Budding Software Engineer
 ### About me:
 2nd Year Computer Science Student at the University of Warwick
 
-### Languages I know:
+### Languages I know: !()[https://static.wikia.nocookie.net/darksouls/images/8/80/Point_Down.png/revision/latest/scale-to-width-down/95?cb=20130204072516]
 - Java
 - C
 - Python
 - SQL
 
-### Stuff I like:
+### Stuff I like: !()[https://static.wikia.nocookie.net/darksouls/images/8/80/Point_Down.png/revision/latest/scale-to-width-down/95?cb=20130204072516]
 - Gaming
 - Anime
 - Keyboards
