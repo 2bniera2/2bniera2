@@ -1,4 +1,4 @@
-!()[https://static.wikia.nocookie.net/darksouls/images/8/80/Point_Down.png/revision/latest/scale-to-width-down/95?cb=20130204072516]
+![](https://static.wikia.nocookie.net/darksouls/images/8/80/Point_Down.png/revision/latest/scale-to-width-down/95?cb=20130204072516)
 
 ## Budding Software Engineer
 ### About me:
