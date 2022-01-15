@@ -10,9 +10,9 @@
 - SQL
 
 ### Stuff I like:
-Gaming
-Anime
-Keyboards
+- Gaming
+- Anime
+- Keyboards
 
 
 
