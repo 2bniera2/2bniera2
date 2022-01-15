@@ -1,4 +1,4 @@
-![](https://static.wikia.nocookie.net/darksouls/images/8/80/Point_Down.png/revision/latest/scale-to-width-down/95?cb=20130204072516)
+![](https://static.wikia.nocookie.net/darksouls/images/e/e9/Wave.png/revision/latest?cb=20130204072517)
 
 ## Budding Software Engineer
 ### About me:
@@ -15,7 +15,7 @@
 - Anime
 - Keyboards
 
-
+![](https://static.wikia.nocookie.net/darksouls/images/9/99/Proper_Bow.png/revision/latest?cb=20130204072517)
 
 <!--
 **arrrayyy/arrrayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
