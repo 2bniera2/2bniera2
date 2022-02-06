@@ -1,16 +1,16 @@
 
 
 ## **Software Engineer.**
-### **About me.**:
+### **About me**:
 2nd Year Computer Science Student at the University of Warwick
 
-### **Languages I know.**: 
+### **Languages I know**: 
 - Java
 - C
 - Python
 - SQL
 
-### **Stuff I like.**: 
+### **Stuff I like**: 
 - Gaming
 - Anime
 - Keyboards
