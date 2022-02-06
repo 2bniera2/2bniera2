@@ -1,21 +1,21 @@
-![](https://static.wikia.nocookie.net/darksouls/images/e/e9/Wave.png/revision/latest?cb=20130204072517)
 
-## **Budding Software Engineer**
-### **About me**:
+
+## **Software Engineer.**
+### **About me.**:
 2nd Year Computer Science Student at the University of Warwick
 
-### **Languages I know**: 
+### **Languages I know.**: 
 - Java
 - C
 - Python
 - SQL
 
-### **Stuff I like**: 
+### **Stuff I like.**: 
 - Gaming
 - Anime
 - Keyboards
 
-![](https://static.wikia.nocookie.net/darksouls/images/9/99/Proper_Bow.png/revision/latest?cb=20130204072517)
+
 
 <!--
 **arrrayyy/arrrayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
