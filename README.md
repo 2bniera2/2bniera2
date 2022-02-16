@@ -1,7 +1,8 @@
 
 
-## **Software Engineer.**
-### **About me**:
+# **Budding Software Engineer, Keeb Weeb**
+
+## **About me**:
 2nd Year Computer Science Student at the University of Warwick
 
 ### **Languages I know**: 
