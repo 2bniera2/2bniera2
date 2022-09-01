@@ -3,13 +3,12 @@
 # **Budding Software Engineer, Keeb Weeb**
 
 ## **About me**:
-2nd Year Computer Science Student at the University of Warwick
+3rd Year Computer Science Student at the University of Warwick
 
 ### **Languages I know**: 
+- Python
 - Java
 - C
-- Python
-- SQL
 
 ### **Stuff I like**: 
 - Gaming
