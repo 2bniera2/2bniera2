@@ -8,7 +8,7 @@
 ### **Languages I know**: 
 - Python
 - Java
-- C
+- C/C++
 
 ### **Stuff I like**: 
 - Gaming
