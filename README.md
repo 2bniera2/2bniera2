@@ -1,20 +1,9 @@
 
+# **:moyai:**
 
-# **Budding Software Engineer, Keeb Weeb**
 
-## **About me**:
-3rd Year Computer Science Student at the University of Warwick
-
-### **Languages I know**: 
-- Python
-- Java
-- C/C++
-
-### **Stuff I like**: 
-- Gaming
-- Anime
-- Keyboards
-
+## 3rd Year Computer Science Student at the University of Warwick
+## Neural Networks Enjoyer, keeb weeb
 
 
 <!--
