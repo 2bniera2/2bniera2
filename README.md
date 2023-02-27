@@ -2,8 +2,8 @@
 # **:moyai:**
 
 
-### 3rd Year Computer Science Student at the University of Warwick
-#### Neural Networks Enjoyer, keeb weeb
+#### 3rd Year Computer Science Student at the University of Warwick
+##### Neural Networks Enjoyer, keeb weeb
 
 
 <!--
