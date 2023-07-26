@@ -2,8 +2,8 @@
 ## **:moyai:**
 
 
-#### 3rd Year Computer Science Student at the University of Warwick
-##### Neural Networks Enjoyer, keeb weeb
+#### Computer Science Graduate from the University of Warwick
+##### I like compilers, computer architecture, neural networks, ~~anime, keyboards, etc. etc.~~
 
 
 <!--
