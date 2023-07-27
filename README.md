@@ -2,7 +2,7 @@
 ## **:moyai:** Raumaan Ahmed **:moyai:**
 
 
-#### Computer Science Graduate from the University of Warwick
+#### Computer Scientist from the University of Warwick
 ##### I like compilers, computer architecture, neural networks, ~~anime, keyboards, etc. etc.~~
 
 
